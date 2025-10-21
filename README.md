@@ -71,7 +71,7 @@ day10-mentalhealthbot/
 ## Author
 
 ### Jericho Sonon
-#### Medium: medium.com/@jlsonon12
-#### GitHub: github.com/jlsonon
-#### LinkedIn: linkedin.com/in/jlsonon
+#### Medium: [medium.com/@jlsonon12](https://medium.com/@jlsonon12)
+#### GitHub: [github.com/jlsonon](https://github.com/jlsonon)
+#### LinkedIn: [linkedin.com/in/jlsonon](https://www.linkedin.com/in/jlsonon/)
 
