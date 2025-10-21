@@ -1,8 +1,5 @@
 gradio
 groq
 python-dotenv
-requirements.txt
 flask
-groq
-python-dotenv
 gunicorn
